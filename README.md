@@ -5,7 +5,7 @@ I think it's unfair that underengineering does not get any attention. So let me 
 
 ## Principles of Underengineering:
 
-1. All improvements should pass the "Why?" test
+1. All improvements should pass the Y test (why?)
 2. It's OK to repeat yourself (sine waves are great)
 3. A lot of tests stimulate a lot of false confidence
 4. Abstraction comes with a payload (i.e. context)
